@@ -12,7 +12,7 @@ Traditionally, DETR (DEtection TRansformer) models were known for their high acc
 
 The core architecture of RT-DETR features a hybrid encoder and a query selection mechanism, enabling it to process multi-scale features efficiently while maintaining the end-to-end simplicity of DETR.
 
-![RT-DETR Architecture](./assets/rtdetr.png)
+![RT-DETR Architecture](../assets/rtdetr.png)
 
 
 ## 🌳 The RT-DETR Family
